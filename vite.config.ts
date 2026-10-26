@@ -1,11 +1,31 @@
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
 import {defineConfig} from 'vite';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+function syncStaticScripts() {
+  return {
+    name: 'sync-static-scripts',
+    buildStart() {
+      const publicDir = path.resolve(__dirname, 'public');
+      ['config.js', 'tracking.js'].forEach((file) => {
+        const src = path.resolve(__dirname, file);
+        const dest = path.resolve(publicDir, file);
+        if (fs.existsSync(src)) {
+          fs.copyFileSync(src, dest);
+        }
+      });
+    },
+  };
+}
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss()],
+    plugins: [syncStaticScripts(), react(), tailwindcss()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
