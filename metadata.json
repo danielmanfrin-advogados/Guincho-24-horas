@@ -1,0 +1,6 @@
+{
+  "name": "Guincho 24 Horas em Ribeirão Preto",
+  "description": "Serviço de guincho 24 horas e auto socorro em Ribeirão Preto e região. Remoção de veículos, motos, recarga de bateria e socorro rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

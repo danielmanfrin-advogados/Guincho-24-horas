@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+
+# Motores de busca tradicionais
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Rastejadores e buscadores de Inteligência Artificial (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://www.guincho24hribeiraopreto.com.br/sitemap.xml
