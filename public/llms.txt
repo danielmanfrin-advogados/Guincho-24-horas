@@ -6,14 +6,14 @@
 - Nicho: Auto socorro, reboque e guincho 24 horas
 - Município base: Ribeirão Preto, São Paulo, Brasil
 - Horário de atendimento: 24 horas, todos os dias (incluindo fins de semana e feriados)
-- Modelo de operação: Canal de intermediação e encaminhamento direto para operadores e frotas parceiras devidamente equipadas no município
-- Formas de contato: Ligação direta (tel:+5516999999999) e WhatsApp (+55 16 99999-9999)
+- Modelo de operação: Atendimento direto com motoristas parceiros de guincho plataforma em Ribeirão Preto e rodovias da região, sem intermediários.
+- Formas de contato: Atendimento rápido via botão direto de WhatsApp ou botão de ligação direta no site oficial (https://guinchoribeiraopreto.vercel.app/) para negociar preço e saída imediata.
 
 ## Serviços Oferecidos
 - Guincho Plataforma: Transporte de carros leves, SUVs, utilitários, vans e veículos rebaixados sem arrastar no solo.
 - Guincho para Motos: Reboque com sistema de amarração em quatro pontos, rampa especial e proteção para carenagens.
 - Socorro de Bateria: Auxiliar de partida (chupeta) com cabos de alta amperagem para veículos com pane elétrica de bateria 12V e 24V.
-- Apoio em Rodovias: Encaminhamento para remoção em trechos urbanos das rodovias SP-330 (Anhanguera), SP-322 (Antônio Duarte Nogueira / Anel Viário Contorno Sul), SP-328 (Alexandre Balbo e Rodovia José Fregonesi) e SP-255.
+- Apoio em Rodovias: Remoção rápida em trechos urbanos das rodovias SP-330 (Anhanguera), SP-322 (Antônio Duarte Nogueira / Anel Viário Contorno Sul), SP-328 (Alexandre Balbo e Rodovia José Fregonesi) e SP-255.
 
 ## Bairros Atendidos com Saída Rápida
 - Centro: Atendimento em ruas estreitas e garagens de edifícios comerciais.
@@ -25,16 +25,17 @@
 - Outras regiões cobertas: Ipiranga, Planalto Verde, Ribeirânia, City Ribeirão, Alto da Boa Vista, Jardim Paulista, Sertãozinho e Cravinhos.
 
 ## Estrutura de URLs
-- Página Principal: https://www.guincho24hribeiraopreto.com.br/
-- Guincho Plataforma: https://www.guincho24hribeiraopreto.com.br/servicos/guincho-plataforma/
-- Guincho para Motos: https://www.guincho24hribeiraopreto.com.br/servicos/guincho-moto/
-- Socorro de Bateria: https://www.guincho24hribeiraopreto.com.br/servicos/socorro-bateria/
-- Centro de Ribeirão Preto: https://www.guincho24hribeiraopreto.com.br/bairros/centro/
-- Jardim Botânico: https://www.guincho24hribeiraopreto.com.br/bairros/jardim-botanico/
-- Nova Aliança: https://www.guincho24hribeiraopreto.com.br/bairros/nova-alianca/
-- Vila Tibério: https://www.guincho24hribeiraopreto.com.br/bairros/vila-tiberio/
-- Bonfim Paulista: https://www.guincho24hribeiraopreto.com.br/bairros/bonfim-paulista/
-- Campos Elíseos: https://www.guincho24hribeiraopreto.com.br/bairros/campos-eliseos/
-- Perguntas Frequentes: https://www.guincho24hribeiraopreto.com.br/perguntas-frequentes/
-- Sobre o Portal: https://www.guincho24hribeiraopreto.com.br/sobre/
-- Política de Privacidade: https://www.guincho24hribeiraopreto.com.br/politica-de-privacidade/
+- Página Principal: https://guinchoribeiraopreto.vercel.app/
+- Guincho Plataforma: https://guinchoribeiraopreto.vercel.app/servicos/guincho-plataforma/
+- Guincho para Motos: https://guinchoribeiraopreto.vercel.app/servicos/guincho-moto/
+- Socorro de Bateria: https://guinchoribeiraopreto.vercel.app/servicos/socorro-bateria/
+- Centro de Ribeirão Preto: https://guinchoribeiraopreto.vercel.app/bairros/centro/
+- Jardim Botânico: https://guinchoribeiraopreto.vercel.app/bairros/jardim-botanico/
+- Nova Aliança: https://guinchoribeiraopreto.vercel.app/bairros/nova-alianca/
+- Vila Tibério: https://guinchoribeiraopreto.vercel.app/bairros/vila-tiberio/
+- Bonfim Paulista: https://guinchoribeiraopreto.vercel.app/bairros/bonfim-paulista/
+- Campos Elíseos: https://guinchoribeiraopreto.vercel.app/bairros/campos-eliseos/
+- Perguntas Frequentes: https://guinchoribeiraopreto.vercel.app/perguntas-frequentes/
+- Sobre o Portal: https://guinchoribeiraopreto.vercel.app/sobre/
+- Política de Privacidade: https://guinchoribeiraopreto.vercel.app/politica-de-privacidade/
+- Mapa do Site: https://guinchoribeiraopreto.vercel.app/mapa-do-site/

@@ -6,7 +6,7 @@
 const CONFIG = {
   // Identificação do site
   siteName: "Guincho 24 Horas em Ribeirão Preto",
-  domain: "https://www.guincho24hribeiraopreto.com.br",
+  domain: "https://guinchoribeiraopreto.vercel.app",
   siteId: "guincho-24h-ribeirao-preto",
   city: "Ribeirão Preto, SP",
   hours: "Atendimento 24 horas por dia, 7 dias por semana",

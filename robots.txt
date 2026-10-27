@@ -30,4 +30,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://www.guincho24hribeiraopreto.com.br/sitemap.xml
+Sitemap: https://guinchoribeiraopreto.vercel.app/sitemap.xml

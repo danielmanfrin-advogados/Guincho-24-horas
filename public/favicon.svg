@@ -1,9 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
-  <rect width="48" height="48" rx="10" fill="#0f172a"/>
-  <path d="M8 28h18l4-8h8v12h2a2 2 0 0 1 2 2v2H6v-6a2 2 0 0 1 2-2z" fill="#f59e0b"/>
-  <circle cx="14" cy="34" r="4" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
-  <circle cx="34" cy="34" r="4" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
-  <path d="M16 28L28 14" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
-  <path d="M28 14l2 6" stroke="#ffffff" stroke-width="2"/>
-  <path d="M30 20c0 2-2 3-3 2" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+  <rect width="48" height="48" rx="10" fill="#14532d"/>
+  <text x="24" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="900" fill="#ffffff" text-anchor="middle">G</text>
+  <circle cx="36" cy="14" r="4" fill="#22c55e"/>
 </svg>

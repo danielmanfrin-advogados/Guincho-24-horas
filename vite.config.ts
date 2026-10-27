@@ -47,6 +47,7 @@ export default defineConfig(() => {
           perguntas_frequentes: path.resolve(__dirname, 'perguntas-frequentes/index.html'),
           sobre: path.resolve(__dirname, 'sobre/index.html'),
           politica_privacidade: path.resolve(__dirname, 'politica-de-privacidade/index.html'),
+          mapa_do_site: path.resolve(__dirname, 'mapa-do-site/index.html'),
           not_found: path.resolve(__dirname, '404.html'),
         },
       },

@@ -1035,13 +1035,7 @@ tr:last-child td {
 }
 
 .phone-badge {
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--color-text-main);
-  background-color: var(--color-surface-soft);
-  padding: 0.2rem 0.6rem;
-  border-radius: var(--radius-pill);
-  border: 1px solid var(--color-border);
+  display: none !important;
 }
 
 .service-meta-box {
@@ -1055,19 +1049,9 @@ tr:last-child td {
 }
 
 .transparency-note {
-  background-color: #fefce8;
-  border: 1px solid #fef08a;
-  border-radius: var(--radius-md);
-  padding: 1rem 1.25rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  font-size: 0.9rem;
-  color: #713f12;
+  display: none !important;
 }
 
-.transparency-note strong {
-  display: block;
-  font-size: 0.95rem;
-  margin-bottom: 0.25rem;
-  color: #854d0e;
+.brand-icon {
+  display: none !important;
 }
